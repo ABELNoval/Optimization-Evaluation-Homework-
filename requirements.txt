@@ -1,0 +1,8 @@
+# Requirements for the optimization notebook
+# Install with: pip install -r requirements.txt
+
+jupyter
+numpy
+pandas
+scipy
+matplotlib
